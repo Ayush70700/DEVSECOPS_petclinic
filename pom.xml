@@ -288,6 +288,19 @@
             <artifactId>javax.activation-api</artifactId>
             <version>${javax-activation.version}</version>
         </dependency>
+<!--jacoco -->
+         <dependency>
+            <groupId>org.jacoco</groupId>
+            <artifactId>jacoco-maven-plugin</artifactId>
+            <version>0.8.6</version>
+         </dependency>
+             
+<!--sonar-maven -->
+         <dependency>
+             <groupId>org.sonarsource.scanner.maven</groupId>
+             <artifactId>sonar-maven-plugin</artifactId>
+             <version>4.0.0.4121</version>
+         </dependency>
 
     </dependencies>
 
