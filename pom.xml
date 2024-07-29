@@ -295,7 +295,7 @@
             <version>0.8.6</version>
          </dependency>
              
-<!--sonar-maven -->
+<!--sonar-maven latest-->
          <dependency>
              <groupId>org.sonarsource.scanner.maven</groupId>
              <artifactId>sonar-maven-plugin</artifactId>
